@@ -4,6 +4,9 @@ A responsive Next.js 15 / TypeScript demo with a custom animated SVG engineer, g
 
 All names, projects, biography and contact details are fictional placeholders. Social icons point to general platform homepages, **not personal profiles**. The contact address `hello@example.com` is only a placeholder.
 
+<img width="1082" height="732" alt="Screenshot 2026-10-18 at 4 45 08 PM" src="https://github.com/user-attachments/assets/5d5257ed-d0c7-4115-b448-1ed12c4c53af" />
+
+
 ## Start
 
 ```bash
